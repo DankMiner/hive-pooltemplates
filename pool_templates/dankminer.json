@@ -1,0 +1,24 @@
+{
+    "full_name": "DankMiner",
+    "for_asic": false,
+    "for_cpu": false,
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_intel": false,
+    "dual": false,
+    "ssl_prefix": "",
+    "default_algo": "capstash",
+    "default_fork": null,
+    "default_units": "khs",
+    "algos": [
+        "capstash",
+        "xelis"
+    ],
+    "dalgos": [],
+    "dual_modes": {},
+    "algomap": {
+        "capstash": "whirlpool-xorfold",
+        "xelis": "xelishashv3"
+    },
+    "forks": []
+}
