@@ -37,6 +37,7 @@ Available miners:
 - cortex-miner - Cortex CUDA miner 
 - cpuminer-opt - cpuminer-opt CPU miner (forks: JayDDee, cpupower, rkz, rplant, gr)
 - cryptodredge - multi algo CUDA miner (NVidia)
+- dankminer - multi algo CUDA/OpenCL miner for CapStash and Xelis (AMD/Nvidia)
 - damominer - multi algo CUDA miner (NVidia)
 - dero-stratum-miner - AstroBWTv3 miner for CPU
 - dstm - legacy 0.3.4b and new zhash
