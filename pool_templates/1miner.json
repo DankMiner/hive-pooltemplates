@@ -132,14 +132,5 @@
         "miners": {
             "_prototype": "miners_fishhash"
         }
-    },
-    {
-        "coin": "LTC+DOGE",
-        "servers": [
-            { "geo": "USA", "urls": ["us1.1miner.net:3643"] }
-        ],
-        "miners": {
-            "_prototype": "miners_scrypt"
-        }
     }
 ]
