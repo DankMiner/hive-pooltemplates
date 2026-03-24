@@ -130,7 +130,7 @@
             { "geo": "USA", "urls": ["us1.1miner.net:9034"] }
         ],
         "miners": {
-            "_prototype": "miners_fishhash"
+          "_prototype": "miners_ironfish"
         }
     }
 ]
