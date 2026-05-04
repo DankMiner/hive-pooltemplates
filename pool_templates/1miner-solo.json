@@ -10,8 +10,8 @@
   {
     "coin": "CAP",
     "servers": [
-      { "geo": "USA", "urls": ["us1.cap.1miner.net:3791"] },
-      { "geo": "Europe", "urls": ["eu1.cap.1miner.net:3791"] }
+      { "geo": "USA", "urls": ["us1.1miner.net:3791"] },
+      { "geo": "Europe", "urls": ["eu1.1miner.net:3791"] }
     ],
     "miners": {
       "dankminer": {
@@ -86,8 +86,8 @@
   {
     "coin": "WART",
     "servers": [
-      { "geo": "USA",    "urls": ["us1.wart.1miner.net:4201"] },
-      { "geo": "Europe", "urls": ["eu1.wart.1miner.net:4201"] }
+      { "geo": "USA",    "urls": ["us1.1miner.net:4201"] },
+      { "geo": "Europe", "urls": ["eu1.1miner.net:4201"] }
     ],
     "miners": {
       "_prototype": "miners_warthog"
@@ -97,8 +97,8 @@
   {
     "coin": "XEL",
     "servers": [
-      { "geo": "USA",    "urls": ["us1.xelis.1miner.net:4074"] },
-      { "geo": "Europe", "urls": ["eu1.xelis.1miner.net:4074"] }
+      { "geo": "USA",    "urls": ["us1.1miner.net:4074"] },
+      { "geo": "Europe", "urls": ["eu1.1miner.net:4074"] }
     ],
     "miners": {
       "_prototype": "miners_xelishashv3",
