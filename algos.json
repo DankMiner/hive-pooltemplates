@@ -1449,6 +1449,12 @@
         "name": "whirlpool"
     },
     {
+        "name": "whirlpool-xorfold",
+        "coins": [
+            "CAP"
+        ]
+    },
+    {
         "name": "x11evo",
         "coins": [
             "Zpool-x11evo"
