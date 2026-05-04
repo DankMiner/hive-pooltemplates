@@ -23,7 +23,7 @@
         "capstash": ["xmr"]
     },
     "algomap": {
-        "capstash": "whirlpool",
+        "capstash": "whirlpool-xorfold",
         "xelis":    "xelishashv3",
         "warthog":  "janushash",
         "xmr":      "randomx"
